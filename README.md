@@ -4,7 +4,7 @@
   - [Explanation](#explanation)
   - [Mobile Application Screenshot](#screenshot)
   - [Photos and Videos](#photosandvideos)
-  - [Arduino](#arduino)
+  - [Arduino Code (make_final.ino)](#arduino)
 
 - [Author](#author)
 
