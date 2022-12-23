@@ -3,8 +3,9 @@
 - [Overview](#overview)
   - [Explanation](#explanation)
   - [Mobile Application Screenshot](#screenshot)
-  - [Photos and Video](#photosandvideos)
-  - [Arduino Code] (#arduino video)
+  - [Photos and Videos](#photosandvideos)
+  - [Arduino](#arduino)
+
 - [Author](#author)
 
 ## Overview
@@ -18,19 +19,20 @@
  
  </ol>
 
-### Screenshots
+### Screenshots and Videos
 
-https://user-images.githubusercontent.com/61360429/209394043-af7bbf18-cdb9-4dba-8057-1227d77bf239.mp4
 
-![incu](https://user-images.githubusercontent.com/61360429/209394359-04b18b21-f230-4777-af2c-c68d61a6675c.png)
+Uploading Icubator_Arduino_Code.mp4…
 
-![WhatsApp Image 2022-12-23 at 8 33 24 PM](https://user-images.githubusercontent.com/61360429/209394056-7680c454-2721-48a5-8641-f32391f937e2.jpeg)
-![WhatsApp Image 2022-12-23 at 8 40 37 PM](https://user-images.githubusercontent.com/61360429/209394067-8ac73927-0c16-465f-8039-fa6c35f83e68.jpeg)
+![incu](https://user-images.githubusercontent.com/61360429/209394544-a900132f-e212-4e52-9a55-3bf393a799b3.png)
+
+
+Uploading whatsapp-video-2022-12-23-at-84327-pm_gZIpbGm3.mp4…
+
+![WhatsApp Image 2022-12-23 at 8 33 24 PM](https://user-images.githubusercontent.com/61360429/209394582-cee099ba-bb2b-4b1b-a987-055703c43505.jpeg)
+![WhatsApp Image 2022-12-23 at 8 40 37 PM](https://user-images.githubusercontent.com/61360429/209394601-5bbad31f-4f32-4c9d-99c0-c52f67f8a350.jpeg)
 
 ### IDE used:
-
-https://user-images.githubusercontent.com/61360429/209394097-7dd64015-24a5-434b-8753-ac4f2336ed60.mp4
-
 
 - Arduino
 
